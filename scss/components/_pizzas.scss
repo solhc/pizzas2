@@ -1,0 +1,10 @@
+@import '../base/variables';
+@import '../base/mixins';
+
+.imagen-centrada{
+    @include ima-centrada();
+}
+
+h6{
+    @include formato-h6();
+}

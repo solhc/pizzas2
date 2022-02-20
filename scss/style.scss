@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+
+@import url('https://fonts.googleapis.com/css2?family=Sofia&display=swap');
+/*formateo*/
+* {
+  margin: 0;
+  padding: 0;
+}
+
+@import 'components/header';
+@import 'components/main';
+@import 'components/pizzas';
+@import 'base/mixins';

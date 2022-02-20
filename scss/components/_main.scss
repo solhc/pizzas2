@@ -1,0 +1,92 @@
+@import '../base/variables';
+
+.container{
+    margin-top: 30px;
+    margin-bottom: 40px;
+
+}
+
+
+
+h1,h2,h3,h5{
+    margin-top: 10px;
+    text-align: center;
+}
+h1{  
+    color: $colorfuerte; 
+    font-family: 'Sofia', cursive;
+    shadow:multiple;
+}
+
+
+hr{
+
+    margin-left: 40%;
+    margin-right: 40%;
+    height: 20px;
+    background-color: red;
+    border-radius: 5px;
+   
+} 
+
+h2{
+    font-style: italic;
+    color: $colormedio;
+    /*font: oblique bold 170% cursive;*/
+    font-family: 'Sofia', cursive;
+    text-shadow: 3px 3px 3px #ababab;
+}
+
+h3{
+    color: $colormediofuerte;
+}
+
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*Imagenes de productos*/
+.tamano-img{
+    height: 45vh;
+    position:inherit; z-index:1; width:100%; 
+}
+.colorfondo{
+    background-color: aqua;
+}
+
+.ver-mas{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 5px 11px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    transition: all ease-in-out 1.25s;
+    border-radius: 12px; 
+    font: oblique bold 80% cursive;
+        &:hover{
+            background-color: rgb(168, 187, 59);;
+            color: rgb(74, 164, 238);
+            font: oblique bold;
+        }    
+}
+.boton-centrado{
+    text-align: center;
+}
+
+
+
+
+
+
+
+/*@media screen and (max-width:800px){
+    .pie-pagina .grupo-1{
+        width: 90%;
+        grid-template-columns: repeat(1, 1fr);
+        grid-gap:30px;
+        padding: 35px 0px;
+    }
+}*/

@@ -1,0 +1,23 @@
+
+
+
+@mixin ima-centrada{
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+  
+    padding-bottom: 30px;
+    border-radius: 20px;
+}
+
+
+
+@mixin formato-h6{
+    font-style: oblique;
+    font-size: 20px;
+    padding-top: 20px;
+    color: green;
+}
