@@ -2,10 +2,17 @@
 
 /*Banner*/
  
-  .slide img{
+ .slide img{
       height: 65vh;
   }
 
+.barra{
+  width: 100%;
+  background-color: #CB6318;
+  display: flex;
+  justify-content: center;
   
-
-  
+}
+.barra h6{
+  color:#F5E356;
+}
