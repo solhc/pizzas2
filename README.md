@@ -33,3 +33,5 @@ puede acceder directamente desde el catálogo de productos o dentro de cada una 
 
 ## GIF de la página
 ![myImage](https://drive.google.com/drive/folders/1yQ_OhuOB3KUmXQo2zhMVBDPkgmEkpCcp)
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
