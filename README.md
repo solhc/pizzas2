@@ -32,4 +32,4 @@ puede acceder directamente desde el catálogo de productos o dentro de cada una 
 - React Router Dom para la navegación.
 
 ## GIF de la página
-![myImage](https://drive.google.com/file/d/1OQJfYM_XGQxhzWXgAlqpBWOPYEZljU-H/view?usp=sharing)
+![myImage](https://drive.google.com/drive/folders/1yQ_OhuOB3KUmXQo2zhMVBDPkgmEkpCcp)
